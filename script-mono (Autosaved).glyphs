@@ -1,11 +1,12 @@
 {
 .appVersion = "3343";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 nodOHieg
 );
 date = "2025-06-16 03:18:47 +0000";
-familyName = "New Font";
+familyName = "Script Almost Mono";
 fontMaster = (
 {
 id = m01;
@@ -428,6 +429,7 @@ glyphname = d;
 lastChange = "2025-06-16 19:23:21 +0000";
 layers = (
 {
+.lastUpdate = 771794601.805;
 layerId = m01;
 shapes = (
 {
@@ -500,6 +502,7 @@ glyphname = e;
 lastChange = "2025-06-16 19:23:59 +0000";
 layers = (
 {
+.lastUpdate = 771794639.29;
 layerId = m01;
 shapes = (
 {
@@ -567,8 +570,9 @@ glyphname = g;
 lastChange = "2025-06-16 19:30:08 +0000";
 layers = (
 {
+.lastUpdate = 771795008.913;
 backgroundImage = {
-imagePath = "../W02/IMG_6569.jpg";
+imagePath = "/Users/aliqadeer/Library/CloudStorage/Dropbox/Type West/T-02/W02/IMG_6569.jpg";
 locked = 1;
 pos = (-3629,-3912);
 scale = (3.8259,3.6187);
@@ -666,6 +670,7 @@ glyphname = i;
 lastChange = "2025-06-16 19:23:37 +0000";
 layers = (
 {
+.lastUpdate = 771794617.642;
 layerId = m01;
 shapes = (
 {
@@ -756,6 +761,7 @@ glyphname = n;
 lastChange = "2025-06-16 19:22:12 +0000";
 layers = (
 {
+.lastUpdate = 771794532.822;
 layerId = m01;
 shapes = (
 {
@@ -821,6 +827,7 @@ glyphname = o;
 lastChange = "2025-06-16 19:22:53 +0000";
 layers = (
 {
+.lastUpdate = 771794573.626;
 layerId = m01;
 shapes = (
 {
