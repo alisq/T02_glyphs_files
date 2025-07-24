@@ -1,5 +1,6 @@
 {
 .appVersion = "3343";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "ALI SHAMAS QADEER",
@@ -317,6 +318,7 @@ glyphname = C;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061685.9;
 layerId = m002;
 shapes = (
 {
@@ -438,6 +440,7 @@ glyphname = D;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775063233.144;
 layerId = m002;
 shapes = (
 {
@@ -619,6 +622,7 @@ glyphname = G;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061960.515;
 guides = (
 {
 pos = (327,-100);
@@ -832,6 +836,7 @@ glyphname = J;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775062366.208;
 layerId = m002;
 shapes = (
 {
@@ -970,6 +975,7 @@ glyphname = L;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775062018.148;
 layerId = m002;
 shapes = (
 {
@@ -1124,6 +1130,7 @@ glyphname = O;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061595.819;
 layerId = m002;
 shapes = (
 {
@@ -1212,6 +1219,7 @@ glyphname = P;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775064918.43;
 layerId = m002;
 shapes = (
 {
@@ -1297,6 +1305,7 @@ glyphname = Q;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775062435.763;
 layerId = m002;
 shapes = (
 {
@@ -1442,6 +1451,7 @@ glyphname = R;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775064963.462;
 layerId = m002;
 shapes = (
 {
@@ -1544,6 +1554,7 @@ glyphname = S;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061299.253;
 layerId = m002;
 shapes = (
 {
@@ -1699,6 +1710,7 @@ glyphname = U;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775065321.012;
 layerId = m002;
 shapes = (
 {
@@ -1812,6 +1824,7 @@ glyphname = W;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061373.33;
 layerId = m002;
 shapes = (
 {
@@ -1874,6 +1887,7 @@ glyphname = X;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061495.058;
 layerId = m002;
 shapes = (
 {
@@ -1948,6 +1962,7 @@ glyphname = Y;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775061547.113;
 layerId = m002;
 shapes = (
 {
@@ -2073,6 +2088,7 @@ glyphname = a;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775063596.294;
 layerId = m002;
 shapes = (
 {
@@ -2196,6 +2212,7 @@ glyphname = b;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775065640.131;
 layerId = m002;
 shapes = (
 {
@@ -2319,6 +2336,7 @@ glyphname = c;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775065469.991;
 background = {
 shapes = (
 {
@@ -2441,6 +2459,7 @@ glyphname = d;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775065648.111;
 layerId = m002;
 shapes = (
 {
@@ -3553,6 +3572,7 @@ glyphname = n;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775063677.29;
 background = {
 shapes = (
 {
@@ -3662,6 +3682,7 @@ glyphname = o;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775063706.885;
 layerId = m002;
 shapes = (
 {
@@ -3750,6 +3771,7 @@ glyphname = p;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775065654.91;
 layerId = m002;
 shapes = (
 {
@@ -3869,6 +3891,7 @@ glyphname = q;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775065661.408;
 layerId = m002;
 shapes = (
 {
@@ -4060,6 +4083,7 @@ glyphname = s;
 lastChange = "2025-07-24 16:01:56 +0000";
 layers = (
 {
+.lastUpdate = 775062476.683;
 layerId = m002;
 shapes = (
 {
@@ -5968,13 +5992,12 @@ unicode = 180;
 instances = (
 {
 axesValues = (
-110
+10
 );
 instanceInterpolations = {
-m002 = 2;
-m004 = -1;
+m004 = 1;
 };
-name = "semi-bold";
+name = thin;
 }
 );
 metrics = (
